@@ -1,8 +1,8 @@
 {
-  "version": "1.6.3",
-  "build": 17,
-  "title": "Paketleme Rehberi v1.6.3",
-  "notes": "Uygulama içinden APK indirme, indirme ilerlemesi ve otomatik kurulum ekranı eklendi.",
-  "download_url": "https://github.com/dereseydi405-wq/paketleme-rehberi-updates/releases/download/v1.6.3/PaketlemeRehberi-v1.6.3.apk",
+  "version": "1.6.4",
+  "build": 18,
+  "title": "Paketleme Rehberi v1.6.4",
+  "notes": "Uygulama içi indirme ve kurulum sisteminin gerçek test sürümüdür.",
+  "download_url": "https://github.com/dereseydi405-wq/paketleme-rehberi-updates/releases/download/v1.6.4/PaketlemeRehberi-v1.6.4.apk",
   "minimum_supported_version": "1.5.1"
 }
