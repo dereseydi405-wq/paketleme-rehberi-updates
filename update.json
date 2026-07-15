@@ -1,8 +1,8 @@
 {
-  "version": "1.7.0",
-  "build": 19,
-  "title": "Paketleme Rehberi v1.7.0",
-  "notes": "Vardiya Kod Hesaplama özelliği ve gelişmiş Türkçe arama sistemi eklendi.",
-  "download_url": "https://github.com/dereseydi405-wq/paketleme-rehberi-updates/releases/download/v1.7.0/PaketlemeRehberi-v1.7.0.apk",
+  "version": "1.7.1",
+  "build": 20,
+  "title": "Paketleme Rehberi v1.7.1",
+  "notes": "Vardiya Kod Hesaplama ekranındaki kayıt yükleme sorunu düzeltildi.",
+  "download_url": "https://github.com/dereseydi405-wq/paketleme-rehberi-updates/releases/download/v1.7.1/PaketlemeRehberi-v1.7.1.apk",
   "minimum_supported_version": "1.5.1"
 }
