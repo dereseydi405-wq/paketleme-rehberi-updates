@@ -1,8 +1,8 @@
 {
-  "version": "1.5.1",
-  "build": 13,
-  "title": "Paketleme Rehberi v1.5.1",
-  "notes": "Jülyen Takvimi alt menüye eklendi ve tema iyileştirmeleri yapıldı.",
-  "download_url": "https://github.com/dereseydi405-wq/paketleme-rehberi-updates/releases/download/v1.5.1/PaketlemeRehberi-v1.5.1.apk",
-  "minimum_supported_version": "1.5.0"
+  "version": "1.6.0",
+  "build": 14,
+  "title": "Paketleme Rehberi v1.6.0",
+  "notes": "Uygulama içi güncelleme kontrolü, şifreli Yönetici PIN sistemi ve kritik işlemler için PIN doğrulaması eklendi.",
+  "download_url": "https://github.com/dereseydi405-wq/paketleme-rehberi-updates/releases/download/v1.6.0/PaketlemeRehberi-v1.6.0.apk",
+  "minimum_supported_version": "1.5.1"
 }
