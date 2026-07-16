@@ -1,8 +1,8 @@
 {
-  "version": "1.8.0",
-  "build": 21,
-  "title": "Paketleme Rehberi v1.8.0",
-  "notes": "Mevcut ürünler, hammaddeler ve ürün kodları korunarak Supabase bulutuna otomatik yedeklenir.",
-  "download_url": "https://github.com/dereseydi405-wq/paketleme-rehberi-updates/releases/download/v1.8.0/PaketlemeRehberi-v1.8.0.apk",
+  "version": "1.8.1",
+  "build": 22,
+  "title": "Paketleme Rehberi v1.8.1",
+  "notes": "Bulut hesabını e-posta ve şifreyle koruma desteği eklendi.",
+  "download_url": "https://github.com/dereseydi405-wq/paketleme-rehberi-updates/releases/download/v1.8.1/PaketlemeRehberi-v1.8.1.apk",
   "minimum_supported_version": "1.5.1"
 }
